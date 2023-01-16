@@ -1,0 +1,133 @@
+body{
+    background-color: black;
+    font-family: book antiqua;
+    margin: 10px 10px;
+    
+}
+
+header{
+    margin: auto;
+    text-align: center;
+}
+
+
+.inleiding{
+    width: 250px;
+    background-color: darkgrey;
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    
+    
+}
+
+
+h2{
+    text-align: center;
+    color: whitesmoke;
+    background-color: lightslategray;
+    margin-left: 800px;
+    margin-right: 800px;
+    
+}
+
+h1{
+    
+    color: whitesmoke;
+    background-color: lightslategray;
+    text-align: center;
+    margin: 5px;
+}
+
+li:hover{
+    background-color:lightslategray;
+    border-style: none;
+}
+
+
+
+ul{
+    text-align: center;
+    margin: 25px;
+}
+
+
+li{
+    display: inline-block;
+    height: 22px;
+    width: 150px;
+    padding: 12px;
+    text-align: center;
+    color: white;
+    background-color: darkgrey;
+}
+
+footer{
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 100px;
+    background-color: lightslategray;
+}
+
+table{
+    background-color: darkgrey;
+    margin: auto;
+    border: 5px solid;
+    border-color: red;
+   
+}
+
+td{
+    height: 22px;
+    width: 150px;
+    border: 1px solid;
+    border-color: red;
+    text-align: center;
+}
+
+th{
+    font-family: bold;
+    font-size: 24px;
+}
+
+header, body, footer {
+    padding: 5px;
+}
+
+input[type="text"], input[type="email"], textarea, select, button{
+    display: block;
+    margin: 15px auto;
+    width: 400px;
+    box-sizing: border-box;
+    background-color: white;
+
+
+}
+
+textarea{
+    height: 100px;
+    padding: 5px 4px;
+    
+}
+
+button:active{
+    background-color: darkgreen;
+    color:white;
+}
+
+fieldset{
+    padding: 50px;
+    width: 300px;
+    margin: auto;
+    background-color: grey;
+
+}
+
+
+
+        
+
+
+
+
+
